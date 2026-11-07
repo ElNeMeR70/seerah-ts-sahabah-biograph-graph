@@ -1,0 +1,11 @@
+{
+  "name": "seerah-ts-sahabah-biograph-graph",
+  "version": "1.0.0",
+  "description": "Companions (Al-Sahabah) Biographical Network & Tabaqat Graph (شبكة تراجم الصحابة الكرام والبدريين والعشرة المبشرين)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
